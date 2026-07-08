@@ -1,52 +1,52 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi there, I'm Deepak Patel!
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:00BCD4&height=220&section=header&text=Deepak%20Patel&fontSize=70&fontAlignY=35&animation=twinkling&desc=Backend%20Developer%20%7C%20Node.js&descAlignY=55&descSize=20" width="100%" alt="Header Banner" />
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Node.js+%2B+Express+Backend+Developer;B.Tech+IT+Undergrad+%40+NIT+Srinagar;Competitive+Programmer+(C%2B%2B);GATE+CS+Aspirant;Anime+Enthusiast+%26+Fitness+Freak" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BCD4&center=true&vCenter=true&width=800&lines=Executing+Node.js+backend+services...;Deploying+Express+APIs...;Compiling+C%2B%2B+Codeforces+Solutions...;I+just+love+chess...;System+Status:+Optimal+and+Ready!" alt="Typing SVG" />
   </a>
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dey-Sumit/Focus-Diary/master/app/layout/assets/coding.gif" width="250" height="250" alt="Animated Coding GIF" />
+</div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="25" height="25" /> About Me
-* 🎓 I am an Information Technology undergraduate at the National Institute of Technology Srinagar (2024-2028), originally from Bilara, Jodhpur.
-* 💻 My primary technical focus is building backend architectures using Node.js and Express.
-* 🏆 I am an active competitive programmer utilizing C++ on Codeforces, with a peak rating of 1354.
-* 📚 I am currently preparing for the GATE Computer Science exam, diving deep into Operating Systems and Database Management Systems.
-* 🚀 I actively build projects for hackathons, including the geospatial safety heatmap Digital Sentinel (Cursor Hackathon Kashmir) and the Village Grievance Redressal System (NIT Delhi Hackathon Finalist).
-* 🗣️ I come from a Hindi-medium educational background and am actively working on mastering English as an intermediate learner.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" width="25" alt="Fire" /> About My Code
+* 🎓 IT Undergrad at **NIT Srinagar** (2024-2028).
+* 💻 Crafting robust backend architectures using **Node.js & Express**.
+* 🏆 Solving algorithmic challenges in **C++** on Codeforces.
+* 📚 Deep diving into **Operating Systems & Database Management Systems**.
+* ♟️ Outside of the terminal, **I just love chess.**
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Person%20Lifting%20Weights.png" alt="Weights" width="25" height="25" /> Beyond the Screen
-* 🏋️‍♂️ I maintain a strict 12:00 AM to 8:30 AM sleep schedule and attend the gym every Monday through Saturday morning.
-* 🏏 I am a huge fan of professional cricket, particularly the Indian Premier League, and enjoy analyzing match outcomes and player form.
-* 🍿 I enjoy streaming anime on Crunchyroll and even participated in the anime-themed Code Slayer 2k25 hackathon.
+<br/>
 
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack & Tools
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" alt="Laptop" /> Tech Arsenal</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,cpp,ts,js,python,mysql,mongodb,git,github,vscode,postman&perline=6" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,cpp,ts,js,python,mysql,mongodb,git,github,vscode,postman,linux,docker&perline=14" alt="Skill Icons" />
   </a>
 </div>
 
----
+<br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics
-
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="25" alt="Trophy" /> Hall of Fame</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepakPatel004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakPatel004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DeepakPatel004&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" alt="Chart" /> Live System Telemetry</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=DeepakPatel004&theme=dracula&hide_border=true&background=00000000&ring=00BCD4&fire=2196F3&currStreakNum=00BCD4" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepakPatel004&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&icon_color=00BCD4&title_color=2196F3" alt="GitHub Stats" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepakPatel004&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:00BCD4&height=2&width=100%" alt="Footer Line" />
 </div>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=DeepakPatel004&show_icons=true&theme=radium&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakPatel004&layout=compact&theme=radium&hide_border=true" />
